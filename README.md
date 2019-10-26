@@ -8,7 +8,7 @@ Summary: https://wonechoi.github.io/portfolio/2_project/
 <p>
 	Worked as a full stack freelancer at NYU Stern<br>
 	Duration: November 2018<br>
-	Languages: HTML, CSS, Javascript, Bootstrap / JSP, JAVA, Servlet, JDBC, MySQL<br>
+	Languages: HTML, CSS, Javascript, Bootstrap / PHP, MySQL<br>
 	Features<br>
 	- sesson checks to prevent from misuse or abuse of the site<br>
 	- randomly given various senarios<br>
